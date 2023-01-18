@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HARU's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=(E2E)%20Speech%20Recognition%20and%20NLP&descAlignY=51&descAlign=70)
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhms1205&count_bg=%23000718&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%94%A5&edge_flat=true)](https://hits.seeyoufarm.com)
-
 #
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hms1205&show_icons=true&theme=codeSTACKr)
@@ -22,5 +20,9 @@
 <a href="mailto:hms1205@soundit.co.kr"><img src="https://img.shields.io/badge/hms1205@soundit.co.kr-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hms1205@soundit.co.kr"/></a>
 <a href="https://www.instagram.com/m___3u/" target="_blank"><img src="https://img.shields.io/badge/m___3u-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 </p>
+
+#
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhms1205&count_bg=%23000718&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%94%A5&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
