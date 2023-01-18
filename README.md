@@ -1,6 +1,7 @@
 
 
-<a href="https://www.instagram.com/m___3u/" target="_blank"><img src="https://img.shields.io/badge/m___3u-E4405F?style=flat-square&logo=appveyor&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/m___3u/" target="_blank"><img src="https://img.shields.io/badge/m___3u-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+
 
 <!--
 **hms1205/hms1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
