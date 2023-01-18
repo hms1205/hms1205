@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HARU's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=(E2E)%20Speech%20Recognition%20and%20NLP&descAlignY=51&descAlign=70)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hms1205&show_icons=true&theme=radical)
-
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hms1205&show_icons=true&theme=transparent)
+</p>
+  
 <h3 align="center"><b>Contact</b></h3>
 </br>
 <p align="center">
