@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HARU's Github%20render&fontSize=90)
 
 <a href="https://www.instagram.com/m___3u/" target="_blank"><img src="https://img.shields.io/badge/m___3u-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 
