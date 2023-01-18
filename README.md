@@ -4,8 +4,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hms1205&show_icons=true&theme=codeSTACKr)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hms1205&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-  
+-->
+
 <h3 align="center"><b>Contact</b></h3>
 </br>
 <p align="center">
