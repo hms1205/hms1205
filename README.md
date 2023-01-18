@@ -21,8 +21,6 @@
 <a href="https://www.instagram.com/m___3u/" target="_blank"><img src="https://img.shields.io/badge/m___3u-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 </p>
 
-#
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhms1205&count_bg=%23000718&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%94%A5&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
