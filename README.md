@@ -13,6 +13,16 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms1205)](https://solved.ac/hms1205/)
 
 #
+ 
+<h3 align="center"><b>Language</b></h3>
+</br>
+<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
+</p>
+ 
+#
 
 <h3 align="center"><b>Contact</b></h3>
 </br>
