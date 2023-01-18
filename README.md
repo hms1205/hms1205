@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HARU's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=(E2E)%20Speech%20Recognition%20and%20NLP&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HARU's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=(E2E)%20Speech%20Recognition%20and%20NLP&descAlignY=51&descAlign=68)
 
 <a href="https://www.instagram.com/m___3u/" target="_blank"><img src="https://img.shields.io/badge/m___3u-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 
