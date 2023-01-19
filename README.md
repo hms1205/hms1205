@@ -35,7 +35,7 @@
 <h3 align="center"><b>Contact</b></h3>
 </br>
 <p align="center">
-<a href="mailto:hms1205@soundit.co.kr"><img src="https://img.shields.io/badge/hms1205@soundit.co.kr-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hms1205@soundit.co.kr"/></a>
+<a href="mailto:hms961205@gmail.com"><img src="https://img.shields.io/badge/hms961205@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hms961205@gmail.com"/></a>
 <a href="https://www.instagram.com/m___3u/" target="_blank"><img src="https://img.shields.io/badge/m___3u-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 </p>
 </br>
