@@ -24,7 +24,8 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 </br>
-and <img src="https://img.shields.io/badge/日本語-blueviolet?style=flat-square"> ?
+</br>
+and <img src="https://img.shields.io/badge/日本語-blueviolet?style=flat-square"> ? 笑 
  
 #
 
