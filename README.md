@@ -4,10 +4,10 @@
  
 #
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hms1205&langs_count=8&count_private=true&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hms1205&count_private=true&show_icons=true&theme=codeSTACKr)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hms1205&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hms1205&langs_coundt=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms1205)](https://solved.ac/hms1205/)
