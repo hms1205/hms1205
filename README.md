@@ -25,9 +25,9 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 </br>
 </br>
-####and
+#### and
 <img src="https://img.shields.io/badge/日本語-blueviolet?style=flat-square">
-####? 笑 
+#### ? 笑 
  
 #
 
