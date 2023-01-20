@@ -17,7 +17,7 @@
 
 #
  
-<h3 align="center"><b>🐾 Tech Stack</b></h3>
+<h3 align="center"><b>🐾 Tech Stack 🐾</b></h3>
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -35,7 +35,7 @@
  
 #
 
-<h3 align="center"><b>🐾 Contact</b></h3>
+<h3 align="center"><b>🐾 Contact 🐾</b></h3>
 </br>
 <p align="center">
 <a href="mailto:hms961205@gmail.com"><img src="https://img.shields.io/badge/hms961205@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hms961205@gmail.com"/></a>
